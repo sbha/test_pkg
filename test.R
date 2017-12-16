@@ -1,5 +1,5 @@
 
 hello_world <- function(){
-  print('Guten Tag') 
+  print('Guten Tag, fraulein!') 
 }
   
